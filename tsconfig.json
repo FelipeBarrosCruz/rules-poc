@@ -1,0 +1,11 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": false,
+    "outDir": "dist",
+    "declarationMap": true,
+    "target": "ES2015",
+  }
+}
